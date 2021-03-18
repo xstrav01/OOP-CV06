@@ -32,7 +32,7 @@ namespace OOP_CV06
                 
             }
             Console.WriteLine();
-            Console.WriteLine("Celková 2D plocha: " + plocha);
+            Console.WriteLine("Celková plocha 2D objektů: " + plocha);
             Console.WriteLine("Celkový objem 3D objektů: " + objem);
             Console.WriteLine("Celkový povrch všech objektů: " + povrch);
         }

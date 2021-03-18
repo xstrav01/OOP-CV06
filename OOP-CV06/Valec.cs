@@ -17,7 +17,7 @@ namespace OOP_CV06
 
         public void Kresli()
         {
-            Console.WriteLine("Valec: polomer=" + polomer +", vyska=" + vyska);
+            Console.WriteLine("Válec: polomer=" + polomer +", vyska=" + vyska);
         }
 
         public double SpoctiObjem()
